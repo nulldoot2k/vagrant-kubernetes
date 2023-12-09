@@ -2,7 +2,7 @@
 
 Download Vagrant: ==> [Vagrant Download](https://developer.hashicorp.com/vagrant/downloads)
 
-Branch Master: Install Kubectl + Kubeadmm + Kubelet
+Branch Master: Build VM 1LB + 1MS + 1WK
 
 ```bash
 git clone https://github.com/nulldoot2k/vagrant-kubernetes.git
